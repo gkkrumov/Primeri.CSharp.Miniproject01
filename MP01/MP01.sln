@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calkulator", "Calkulator\Calkulator.csproj", "{948EB155-6402-448D-B665-7F331794D1F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInput", "UserInput\UserInput.csproj", "{28308DCC-B457-4B32-A95C-47020D5A3D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "About", "About\About.csproj", "{E90AAEAC-2AEF-491F-A02E-9E80874BB86F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colors", "Colors\Colors.csproj", "{EBC59C90-10B2-4A9C-8380-3F8BB34C55DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculations", "Calculations\Calculations.csproj", "{E987F838-CFA0-45E2-BCC8-1B72E53659C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28308DCC-B457-4B32-A95C-47020D5A3D8A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{28308DCC-B457-4B32-A95C-47020D5A3D8A}.Debug|x86.Build.0 = Debug|Any CPU
+		{28308DCC-B457-4B32-A95C-47020D5A3D8A}.Release|x86.ActiveCfg = Release|Any CPU
+		{28308DCC-B457-4B32-A95C-47020D5A3D8A}.Release|x86.Build.0 = Release|Any CPU
+		{948EB155-6402-448D-B665-7F331794D1F9}.Debug|x86.ActiveCfg = Debug|x86
+		{948EB155-6402-448D-B665-7F331794D1F9}.Debug|x86.Build.0 = Debug|x86
+		{948EB155-6402-448D-B665-7F331794D1F9}.Release|x86.ActiveCfg = Release|x86
+		{948EB155-6402-448D-B665-7F331794D1F9}.Release|x86.Build.0 = Release|x86
+		{E90AAEAC-2AEF-491F-A02E-9E80874BB86F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E90AAEAC-2AEF-491F-A02E-9E80874BB86F}.Debug|x86.Build.0 = Debug|Any CPU
+		{E90AAEAC-2AEF-491F-A02E-9E80874BB86F}.Release|x86.ActiveCfg = Release|Any CPU
+		{E90AAEAC-2AEF-491F-A02E-9E80874BB86F}.Release|x86.Build.0 = Release|Any CPU
+		{E987F838-CFA0-45E2-BCC8-1B72E53659C8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E987F838-CFA0-45E2-BCC8-1B72E53659C8}.Debug|x86.Build.0 = Debug|Any CPU
+		{E987F838-CFA0-45E2-BCC8-1B72E53659C8}.Release|x86.ActiveCfg = Release|Any CPU
+		{E987F838-CFA0-45E2-BCC8-1B72E53659C8}.Release|x86.Build.0 = Release|Any CPU
+		{EBC59C90-10B2-4A9C-8380-3F8BB34C55DC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EBC59C90-10B2-4A9C-8380-3F8BB34C55DC}.Debug|x86.Build.0 = Debug|Any CPU
+		{EBC59C90-10B2-4A9C-8380-3F8BB34C55DC}.Release|x86.ActiveCfg = Release|Any CPU
+		{EBC59C90-10B2-4A9C-8380-3F8BB34C55DC}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
