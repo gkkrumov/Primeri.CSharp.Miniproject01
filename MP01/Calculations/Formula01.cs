@@ -58,6 +58,7 @@ namespace Calculations
 		/// Вътрешен метод за пресмятане на Формула 01 след парсване на командата от потребителя</summary>
 		/// <param name ="_param">Това е масив от стрингове, който съдържа командата с параметри от потребителя</param>
 		/// <param name ="_result">В тази променлива ще бъде върнат резултата от формулата</param>
+		/// >return<Методът връща true при успешно изпълнение</returns>
 		private bool runCalculations (string[] _param, out double _result )
 		{
 			try {
