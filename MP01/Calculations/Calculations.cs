@@ -9,6 +9,8 @@ namespace Calculations
 		public Formula02 F02 = new Formula02 ();
 		public Formula03 F03 = new Formula03 ();
 
+
+
 		//Библиотеки
 		private Colors.ForCLI _cl = new Colors.ForCLI (); 
 
