@@ -38,13 +38,21 @@
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
+    <ProjectReference Include="..\About\About.csproj">
+      <Project>{E90AAEAC-2AEF-491F-A02E-9E80874BB86F}</Project>
+      <Name>About</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Colors\Colors.csproj">
+      <Project>{EBC59C90-10B2-4A9C-8380-3F8BB34C55DC}</Project>
+      <Name>Colors</Name>
+    </ProjectReference>
     <ProjectReference Include="..\UserInput\UserInput.csproj">
       <Project>{28308DCC-B457-4B32-A95C-47020D5A3D8A}</Project>
       <Name>UserInput</Name>
     </ProjectReference>
-    <ProjectReference Include="..\About\About.csproj">
-      <Project>{E90AAEAC-2AEF-491F-A02E-9E80874BB86F}</Project>
-      <Name>About</Name>
+    <ProjectReference Include="..\Calculations\Calculations.csproj">
+      <Project>{E987F838-CFA0-45E2-BCC8-1B72E53659C8}</Project>
+      <Name>Calculations</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>

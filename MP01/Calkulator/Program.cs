@@ -19,7 +19,7 @@ namespace Calkulator
 			//Стартиране на програмата
 			_program.uInput.sayHello ();
 			_program.uInput.getUserCommands ();
-
+			 
 
 		}
 	}

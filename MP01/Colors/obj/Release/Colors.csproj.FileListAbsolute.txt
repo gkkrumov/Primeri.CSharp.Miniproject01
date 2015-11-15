@@ -3,3 +3,5 @@ C:\Aula\primeri.csharp.miniproject01\MP01\Colors\bin\Release\Colors.pdb
 C:\Aula\primeri.csharp.miniproject01\MP01\Colors\obj\Release\Colors.csprojResolveAssemblyReference.cache
 C:\Aula\primeri.csharp.miniproject01\MP01\Colors\obj\Release\Colors.dll
 C:\Aula\primeri.csharp.miniproject01\MP01\Colors\obj\Release\Colors.pdb
+C:\Aula\primeri.csharp.miniproject01\MP01\Colors\bin\Release\About.dll
+C:\Aula\primeri.csharp.miniproject01\MP01\Colors\bin\Release\About.pdb

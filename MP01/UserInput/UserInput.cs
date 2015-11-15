@@ -31,9 +31,9 @@ namespace UserInput
 				//Проверка за налични команди
 				if (_command.ToLower().Contains ("яма") )        _calc.F01.calc ( _command );
 				if (_command.ToLower().Contains ( "въгъл" ) )    _calc.F02.calc ( _command );
-
 				if (_command.ToLower().Contains ( "иъгъл" ) )    _calc.F03.calc ( _command );
-
+				if (_command.ToLower().Contains ( "стъгъл" ) )   _calc.F04.calc ( _command );
+					
 				if (_command.ToLower().Contains ( "помощ") ||
 					_command.ToLower () == "п")                 _calc.commands ();
 
